@@ -6,7 +6,7 @@
 ![demo](down600.gif)
 
 
-#### [蓝奏云 4-4 22:21 下载地址  https://www.lanzous.com/ib00pof](https://www.lanzous.com/ib00pof)
+#### [蓝奏云 4-4 22:21 下载地址  https://pdown.lanzous.com/ib00pof](https://pdown.lanzous.com/ib00pof)
 ---
 ### 0.项目刚发布，确实有不少BUG，请参阅 [更新日志.md](更新日志.md)  
 最新更新时间：2020-4-4 22:21，近期我们更新很频繁的。如果遇到各种不能下载/无限拉取，请多包容，过一天再试BUG可能就被修复了，请留意我们的版本更新。过一个月程序就稳定了，就不会有频繁的版本更新了<br/><br/>
